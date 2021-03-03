@@ -1,0 +1,10 @@
+package: animated_login
+version: dev
+author: Thomas Skerbis
+version: 0.0.1
+supportpage: https://github.com/skerbis/animated_login
+load: late
+requires:
+    redaxo: '^5.12.0'
+    php:
+        version: '>=7, <9'
