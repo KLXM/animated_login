@@ -1,5 +1,5 @@
 package: animatedlogin
-author: Thomas Skerbis
+author: KLXM Crossmedia GmbH, Moers
 version: 0.0.1
 supportpage: https://github.com/skerbis/animated_login
 load: late
