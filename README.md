@@ -4,4 +4,10 @@
 
 This AddOn adds an animated login screen to REDAXO cms
 
-Just an experiment 
+## Author
+
+**Friends Of REDAXO**
+
+* http://www.redaxo.org
+* https://github.com/FriendsOfREDAXO
+
